@@ -1,0 +1,26 @@
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest cache
+.pytest_cache/
+
+# Hypothesis cache
+.hypothesis/
+
+# Coverage files
+.coverage
+htmlcov/
+
+# IDE settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
